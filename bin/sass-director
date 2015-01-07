@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require 'sass-director'
+
+chatter = SassDirector::Hw.new  
+chatter.say_hello  
